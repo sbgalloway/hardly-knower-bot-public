@@ -5,4 +5,4 @@ INSTALL DISCORD api
 py -3 -m pip install -U discord.py
 
 RUN IT
-py bot_hardly_knower
+py bot_hardly_knower - Public.py
